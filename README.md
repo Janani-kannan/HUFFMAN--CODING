@@ -29,7 +29,7 @@ print the characters and its huffmancode.
 # REGISTER NO - 212224230102
 ```
 
-input_string = "JANARTHANAN K"  
+input_string = "JANANI K"  
 frequency = {}
 for char in input_string:
     if char in frequency:
@@ -67,7 +67,7 @@ for char, code in huffman_codes.items():
 
 ## Print the characters and its huffmancode
 
-<img width="332" height="171" alt="image" src="https://github.com/user-attachments/assets/b5fe28aa-80fd-4919-ad57-5e8036f1982f" />
+<img width="288" height="144" alt="image" src="https://github.com/user-attachments/assets/3e0084ed-38e4-4630-9067-1d6cf160604b" />
 
 
 ## Result
